@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Drones",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo..",
+    "image": "/img/drone2.webp"
+  },
+  {
+    "id": 2,
+    "name": "Computación",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo..",
+    "image": "/img/monitor.webp"
+  },
+  {
+    "id": 3,
+    "name": "Cámaras",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo..",
+    "image": "/img/camara.webp"
+  },
+  {
+    "id": 4,
+    "name": "Audio",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo..",
+    "image": "/img/altavoz.webp"
+  },
+  {
+    "id": 5,
+    "name": "Celulares",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo..",
+    "image": "/img/iphone.webp"
+  }
+]

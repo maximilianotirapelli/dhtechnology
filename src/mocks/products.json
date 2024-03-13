@@ -1,0 +1,2052 @@
+[
+  {
+    "id": 1,
+    "name": "Parlante Genius SP-HF180 negro",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "Ofrece un sonido natural, con una gran claridad y precisión,\n\nque se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia.\n\nAl ser activo solo necesitarás conectarlo a la fuente de sonido y el mismo equipo se encargará de amplificar y reproducir.",
+    "price": 1800,
+    "stock": 20,
+    "category": "Audio",
+    "rating": 3.5,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_961789-MLU72581103736_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787359-MLA42899391577_072020-F.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_835498-MLU72831499259_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_991233-MLU72831499263_112023-F.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_922360-MLU70027360993_062023-F.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Notebook Asus TUF FX506L Core I5 10300H",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "Disfrutá de la perfecta combinación de rendimiento y diseño con esta notebook Asus TUF Gaming F15 FX506LHB-HN324W.\n\nSu pantalla LED de 15.6´ y 1920x1080 px de resolución te brindará colores más vivos y definidos. Su placa de video\n\nNVIDIA GeForce GTX 1650 convierte a este dispositivo en una gran herramienta de trabajo para cualquier profesional del diseño.",
+    "price": 8000,
+    "stock": 74,
+    "category": "Computación",
+    "rating": 3.4,
+    "images": [
+      {
+        "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36805_Notebook_Gamer_Asus_TUF_FX506L_FHD_IPS_15.6__Core_I5_10300H_16GB_512GB_SSD_NVMe_GTX_1650_W11_Home_144Hz_63a3df9f-grn.jpg"
+      },
+      {
+        "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36806_Notebook_Gamer_Asus_TUF_FX506L_FHD_IPS_15.6__Core_I5_10300H_16GB_512GB_SSD_NVMe_GTX_1650_W11_Home_144Hz_d66354a0-grn.jpg"
+      },
+      {
+        "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36807_Notebook_Gamer_Asus_TUF_FX506L_FHD_IPS_15.6__Core_I5_10300H_16GB_512GB_SSD_NVMe_GTX_1650_W11_Home_144Hz_48aaadcc-grn.jpg"
+      },
+      {
+        "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36808_Notebook_Gamer_Asus_TUF_FX506L_FHD_IPS_15.6__Core_I5_10300H_16GB_512GB_SSD_NVMe_GTX_1650_W11_Home_144Hz_613d53e8-grn.jpg"
+      },
+      {
+        "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36809_Notebook_Gamer_Asus_TUF_FX506L_FHD_IPS_15.6__Core_I5_10300H_16GB_512GB_SSD_NVMe_GTX_1650_W11_Home_144Hz_6b178330-grn.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mini drone DJI Mini SE Fly More",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Los drones DJI se caracterizan por la mejor tecnología al servicio de cada tipo de usuario y escenario de disparo. Su velocidad máxima es de 13 m/s,\n\nlo que te brindará la posibilidad de ahorrar tiempo en los desplazamientos. A través de su cámara 2.7K obtendrás imágenes de gran resolución y calidad, y podrás registrar todo su recorrido. Gracias a su sistema GPS conseguirás alcanzar largas distancias y conquistar espacios con independencia.",
+    "price": 5700,
+    "stock": 98,
+    "category": "Drones",
+    "rating": 4.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_796396-MLU72849660522_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_758862-MLA48244697317_112021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_910887-MLA51617393391_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_901907-MLA53381775515_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_900575-MLA53381795575_012023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy A54 5G 256GB 8GB RAM",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Mirá tus series y películas favoritas con la mejor definición a través de su pantalla Super AMOLED de 6.4'.\n\nCon su potente procesador y memoria RAM de 8 GB\n\ntu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos. Desbloqueo veloz con tu huella dactilar. ¡Desenchufate! Con la súper batería de 5000 mAh tendrás energía por mucho más tiempo.",
+    "price": 3000,
+    "stock": 87,
+    "category": "Celulares",
+    "rating": 3.2,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_732057-MLA70868353813_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA70891151329_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA70891151039_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_675839-MLA70891227215_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_609072-MLA70891151049_082023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mini Drone Plegable con Doble Cámara 360º",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "Lo suficientemente pequeños como para caber en la palma de tu mano. Diseñado para vivir una experiencia única.\n\nIdeales para volar en interiores, recorrer pasillos estrechos y realizar maniobras delicadas con facilidad.",
+    "price": 2500,
+    "stock": 7,
+    "category": "Drones",
+    "rating": 1.3,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_918142-MLA72844378016_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_652018-MLA72844141414_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_835211-MLA72921110259_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_732996-MLA72844200456_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_838838-MLA72921465243_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Auricular Gamer Corsair Hs80",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Los auriculares para juegos CORSAIR HS80 RGB USB ofrecen un sonido increíblemente rico en matices a través de los transductores de audio de neodimio de 50 mm de ajuste personalizado con sonido envolvente Dolby Audio 7.1.",
+    "price": 3000,
+    "stock": 10,
+    "category": "Audio",
+    "rating": 1.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_690986-MLA53364008990_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_929822-MLA53364033857_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_672204-MLA53364084390_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_648991-MLA53364175153_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_976562-MLA53364061643_012023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "iPhone 14 Pro 256 GB Negro",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "El iPhone 14 Pro te permite captar detalles increíbles gracias a su cámara gran angular de 48 MP. Además, trae la Dynamic Island y una pantalla siempre activa, para que puedas interactuar con tu iPhone de una forma completamente nueva.",
+    "price": 7500,
+    "stock": 42,
+    "category": "Celulares",
+    "rating": 4.2,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_913741-MLM51559386469_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_847325-MLM51559386473_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_982554-MLM51559386475_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_831766-MLM51559386467_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_635918-MLM51559386474_092022-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Drone Toysky S161 Cámara 4k",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "Este drone aéreo te permitirá ver absolutamente todo desde las alturas. Asegurate de encontrar una plataforma de vuelo que te permita trabajar con comodidad y preparate para volar.",
+    "price": 4300,
+    "stock": 78,
+    "category": "Drones",
+    "rating": 2.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_917248-MLU72612985347_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_723128-MLU70063385916_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756530-MLU70063385920_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_879483-MLU72612919501_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_797734-MLU70063385932_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Parlantes Thonet&Vander Vertrag",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Thonet & Vander Vertrag BT ofrece un sonido natural, con una gran claridad y precisión, que se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia.",
+    "price": 950.15,
+    "stock": 62,
+    "category": "Audio",
+    "rating": 4.3,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_838420-MLU72627492940_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_764368-MLU72627736004_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_704879-MLA41986370257_052020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_780368-MLA46257874035_062021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_999527-MLU69790706872_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Edifier R1100",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "Potencia de 42W"
+      },
+      {
+        "characteristic": "Conector de entrada: Auxiliar, RCA"
+      },
+      {
+        "characteristic": "Cantidad de parlantes: 2"
+      },
+      {
+        "characteristic": "Tipo de parlante: tweeter, woofer"
+      }
+    ],
+    "description": "Edifier R1100 ofrece un sonido natural, con una gran claridad y precisión, que se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia.",
+    "price": 3000,
+    "stock": 48,
+    "category": "Audio",
+    "rating": 4.7,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_854001-MLA41991263349_052020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_641874-MLU72627490896_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_648874-MLU72627481058_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_975873-MLU72627481062_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_922398-MLU72699560957_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mini drone Electroland",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "A través de su cámara HD obtendrás imágenes de gran resolución y calidad, y podrás registrar todo su recorrido.\n\nEste drone aéreo te permitirá ver absolutamente todo desde las alturas. Asegurate de encontrar una plataforma de vuelo que te permita trabajar con comodidad y preparate para volar.\n\nGarantizá que tu vuelo sea seguro. Este drone viene con protectores de hélices incluidas para evitar posibles daños que afecten al equipo y lo desestabilicen durante su andar.",
+    "price": 1200,
+    "stock": 94,
+    "category": "Drones",
+    "rating": 2.1,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_808092-MLA52219487955_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_808092-MLA52219487955_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_618168-MLU73121981748_122023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_877573-MLU73205901997_122023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_941857-MLU73205971281_122023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Camara Ip Wifi P2p Infrarroja",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Esta cámara tipo domo es perfecta a la hora de combatir el vandalismo y las situaciones adversas gracias a su excelencia en cuanto a durabilidad. Su cúpula está encerrada en una carcasa resistente, lo que ayudará a mantenerla protegida de posibles golpes y sacudidas. Cuenta con resolución de 2MP, que ofrece una vigilancia clara y precisa sobre los espacios.Además, estos videos se registran a una velocidad máxima de 24 fotogramas por segundo, por lo que obtendrás una mayor fluidez en la imagen.",
+    "price": 1300,
+    "stock": 13,
+    "category": "Cámaras",
+    "rating": 2.0,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_834770-MLU72700809245_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_600369-MLA52320839226_112022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_870082-MLA52320778404_112022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_826094-MLU70080532937_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_982400-MLU70969815010_082023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Aro De Luz Led 30 Cm Con Trípode",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "price": 694.93,
+    "stock": 87,
+    "category": "Celulares",
+    "rating": 3.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_654013-MLA71522021520_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_782483-MLA71478311940_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_758532-MLA71569926043_092023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Drone Toysky CSJ S179",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "El Drone Toysky CSJ S179 es el compañero perfecto para tus aventuras al aire libre y la captura de imágenes impresionantes. Con su cámara dual 6K, podrás tomar fotos y videos de alta calidad desde el cielo, mientras que su conexión Wi-Fi te permitirá controlarlo fácilmente desde tu smartphone. Además, su GPS integrado y las funciones de auto retorno y seguimiento aseguran que nunca lo perderás de vista.",
+    "price": 15000,
+    "stock": 64,
+    "category": "Drones",
+    "rating": 3.9,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_650210-MLA48156510665_112021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_905754-MLA48156651355_112021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_670246-MLU72827311213_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_727382-MLU72827311219_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_610131-MLU72827311223_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kit Gamer Corsair K55+harpoon Rgb",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Con este kit de teclado y mouse Corsair vas a poder llevar tus partidas a otro nivel. Destinado a un público gamer, potenciá tu performance en distintos juegos. Con este combo, podrás darle un uso intensivo a estos dispositivos y disfrutar de interminables horas de diversión.",
+    "price": 4500,
+    "stock": 10,
+    "category": "Computación",
+    "rating": 3.4,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_736274-MLU72642690467_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_914416-MLU72571546234_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_823297-MLU72571546270_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_766884-MLU72571350986_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_679332-MLU72571486840_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "iPhone 15 Pro Max (256 GB)",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "iPhone 15 Pro Max. Forjado en titanio y equipado con el revolucionario chip A17 Pro, un Botón de Acción personalizable y el sistema de cámaras más potente en un iPhone. La pantalla Super Retina XDR de 6.7 pulgadas con ProMotion aumenta la frecuencia de actualización hasta 120 Hz cuando necesitas el máximo rendimiento gráfico.",
+    "price": 15000,
+    "stock": 95,
+    "category": "Celulares",
+    "rating": 4.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_768125-MLA71783090116_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_785909-MLA71783090118_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_717149-MLA71783169710_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_669193-MLA71783169716_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_690178-MLA71783367420_092023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Monitor Samsung Odyssey G5 Curvo",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Este monitor de 27´ te va a resultar cómodo para estudiar, trabajar o ver una película en tus tiempos de ocio. Asimismo, su resolución de 2560 x 1440 te permite disfrutar de momentos únicos gracias a una imagen de alta fidelidad. Su tiempo de respuesta de un milisegundo lo hace ideal para gamers y cinéfilos porque es capaz de mostrar imágenes en movimiento sin halos o bordes borrosos.",
+    "price": 2000,
+    "stock": 44,
+    "category": "Computación",
+    "rating": 1.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_712790-MLU72825479961_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_660660-MLU72572324650_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_869962-MLU72643886921_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_895730-MLU72643761401_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_694667-MLU69483143266_052023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lente Zoom 12x Clip Universal",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "El telescopio se puede utilizar como monocular. Se adapta a la mayoría de los tipos de teléfonos móviles, incluyen teléfonos con tapa y teléfonos con barra.",
+    "price": 896.16,
+    "stock": 89,
+    "category": "Celulares",
+    "rating": 3.3,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_648380-MLA31027475627_062019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_844059-MLA31027475628_062019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_742899-MLA31027466370_062019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_700177-MLA29264167117_012019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_924755-MLA31027475626_062019-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Canon EOS Rebel Kit T100",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Con la gran velocidad de obturación de tu cámara podrás congelar cualquier movimiento en milésimas de segundo, desde una gota que cae hasta un auto de fórmula 1. Por el contrario, con la velocidad de obturación lenta vas a poder captar movimientos casi imperceptibles como las luces de la ciudad o de las estrellas en la noche. Divertite jugando con tu cámara y obtené fotografías con gran dinamismo.",
+    "price": 8000,
+    "stock": 97,
+    "category": "Cámaras",
+    "rating": 3.3,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_842574-MLA40353899541_012020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_949970-MLA40353838721_012020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_879727-MLA40353838723_012020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_861140-MLA40353838724_012020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_900757-MLA40353899542_012020-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Mini Drone HandBee",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "Este drone aéreo te permitirá ver absolutamente todo desde las alturas. Asegurate de encontrar una plataforma de vuelo que te permita trabajar con comodidad y preparate para volar.",
+    "price": 1500,
+    "stock": 45,
+    "category": "Drones",
+    "rating": 1.7,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_677805-MLM40116445984_122019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_726321-MLM40116472335_122019-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Macbook Pro 13 M2",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "La MacBook Pro es la notebook más poderosa de Apple. Su procesador Apple M2, te permitirá ejecutar programas variados y procesos indispensables para desenvolverte en el día a día, ya sea en tu trabajo o en los momentos de ocio en tu hogar. El disco sólido de 256 GB hace que el equipo funcione a gran velocidad y por lo tanto te brinda mayor agilidad para operar con diversos programas.",
+    "price": 20000,
+    "stock": 28,
+    "category": "Computación",
+    "rating": 3.9,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_930926-MLU70630283369_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_759575-MLU70630283371_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_879603-MLU70630819457_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953750-MLU70630283373_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_742567-MLU70630283375_072023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Webcam Logitech C920s",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "Tener una videoconferencia es más sencillo que nunca. Su tecnología plug and play permite conectar la cámara a la computadora sin tener que configurar ni ofrecer parámetros a sus controladores.",
+    "price": 1000,
+    "stock": 34,
+    "category": "Cámaras",
+    "rating": 4.7,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_737910-MLU72933234251_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_671723-MLU70982340128_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_809021-MLA49170899093_022022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_973792-MLU70010252802_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_729796-MLU70010472304_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Escritorio gamer GTC Gta-002",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "¡Programá tu zona de juego! Resistente y espacioso, el escritorio GTC es perfecto para quienes buscan un mueble amplio que soporte el peso de consolas, televisores, grandes pantallas y otros dispositivos requeridos para jugar largas horas. Creá el ambiente idóneo, y pasá al siguiente nivel.",
+    "price": 1300,
+    "stock": 93,
+    "category": "Computación",
+    "rating": 4.2,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725869-MLA49704805321_042022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_615448-MLU73213117053_122023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_777863-MLU73129147124_122023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_917407-MLU73129147152_122023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_709728-MLU73129166454_122023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "GoPro Hero9 Black",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "Esta videocámara de acción es a prueba de agua, lo que te permite sumergirte en tus actividades acuáticas sin preocupaciones. Además, cuenta con visión nocturna para que puedas seguir grabando incluso en condiciones de poca luz. La pantalla táctil de 2.3 pulgadas facilita la navegación por los menús y la visualización de tus imágenes y videos.",
+    "price": 3000,
+    "stock": 17,
+    "category": "Cámaras",
+    "rating": 4.2,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953917-MLA51045674653_082022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_742683-MLA45141023677_032021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_716635-MLA51045585962_082022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_704624-MLA45141065443_032021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_959886-MLA45141023697_032021-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Drone Gadnic Control Remoto",
+    "date": { "from": "2023-12-13", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Su velocidad máxima es de 18 m/s, lo que te brindará la posibilidad de ahorrar tiempo en los desplazamientos. A través de su cámara HD obtendrás imágenes de gran resolución y calidad, y podrás registrar todo su recorrido. Gracias a su sistema GPS conseguirás alcanzar largas distancias y conquistar espacios con independencia. Incluye 2 baterías, que abastecerán al drone de la energía suficiente para funcionar. Al finalizar el trayecto, podrás recargarlas de manera fácil y cómoda.",
+    "price": 2500,
+    "stock": 39,
+    "category": "Drones",
+    "rating": 1.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_743851-MLU69607883324_052023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_988250-MLU71414612943_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_616180-MLU71414612945_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_782097-MLU71414612949_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_831030-MLU71370692238_082023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Laptop Gamer Acer Predator",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Descubra la potencia de los gráficos para portátiles GeForce RTX 3060 que ofrecen altas velocidades de fotogramas junto con el último procesador Intel® Core i7 de 12.ª generación para capacidades épicas de transmisión, edición de fotos y renderizado 3D. Obtenga un juego fluido con frecuencias de actualización de hasta 165 Hz en la pantalla IPS WUXGA de 14 pulgadas",
+    "price": 5000,
+    "stock": 81,
+    "category": "Computación",
+    "rating": 2.9,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_844979-MLU69146133119_042023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_869334-MLU69141797078_042023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_912757-MLU69146529055_042023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_897326-MLU69146133125_042023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_655345-MLU69141797084_042023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cámara Insta360 X3",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "Si sos una persona apasionada por los videos, esta cámara Insta360 X3 te va a resultar indispensable. Todos tus momentos pueden ser grabados de forma permanente, ya seas profesional o simplemente entusiasta, este producto es intuitivo y fácil de utilizar. Con su resolución 5.7K obtenés videos de óptima calidad.",
+    "price": 67.37,
+    "stock": 95,
+    "category": "Cámaras",
+    "rating": 1.1,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_944239-MLA52106418598_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_703328-MLU70045209176_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812780-MLU70045245582_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_976045-MLU70065178615_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_708928-MLU72650679415_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Samsung Galaxy Z Fold4",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "curious"
+      }
+    ],
+    "description": "Al plegarse, adopta un tamaño pequeño y compacto que te resultará muy cómodo para transportar. Cuando quieras disfrutar de tus contenidos favoritos se transforma desplegando su pantalla de 7.6 pulgadas.",
+    "price": 201.4,
+    "stock": 34,
+    "category": "Celulares",
+    "rating": 1.7,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_966131-MLA53264786600_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_716296-MLA53264776825_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_880323-MLA52178897927_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_671377-MLA53264808193_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_713872-MLA53264776827_012023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Drone Dji Air 2s",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Los drones DJI se caracterizan por la mejor tecnología al servicio de cada tipo de usuario y escenario de disparo. Si estás buscando un dron para principiantes, un dron profesional o solamente querés estar actualizado con las últimas innovaciones, es hora de elegir a esta marca.",
+    "price": 4800,
+    "stock": 77,
+    "category": "Drones",
+    "rating": 2.5,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_898637-MLA46233140017_062021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_915403-MLA46232951572_062021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_832433-MLA53044058865_122022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_873687-MLA46232951573_062021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_733591-MLA54815736778_042023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Asus ROG Phone 6",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Descubrí infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados.",
+    "price": 3000,
+    "stock": 38,
+    "category": "Celulares",
+    "rating": 4.2,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_724705-MLA52975122816_122022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_789150-MLA52975122817_122022-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Sony A7 Ii A7ii",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "Esta cámara se adapta a tu ritmo de vida y te ofrece excelentes resultados en situaciones complejas. En situaciones con poca iluminación o cuando necesitás realizar tomas de escenas rápidas, la cámara sin espejos sortea todos los obstáculos para ofrecer fotografías nítidas y videos en alta calidad. Su peso ligero y resultados increíbles la convierten en tu compañera ideal.",
+    "price": 8000,
+    "stock": 98,
+    "category": "Cámaras",
+    "rating": 3.4,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_686501-MLA70466796021_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_975146-MLA70466589403_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_897625-MLA70466778035_072023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_806780-MLA44793340756_022021-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Notebook Dell Alienware X15",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Notebook gamer cuenta con un procesador Intel i7, 16gb RAM DDR4, una tarjeta gráfica NVIDIA GeForce RTX3070 y un disco SSD de 512gb.",
+    "price": 5000,
+    "stock": 56,
+    "category": "Computación",
+    "rating": 3.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_798172-MLA69203413644_052023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_642660-MLA54987918432_052023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_631008-MLA69203489234_052023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nikon Kit D7500",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Nikon fabrica cámaras fotográficas con tecnología de punta y excelencia en la calidad. Sus productos permiten que explores toda tu creatividad, asegurándote calidad en los resultados.",
+    "price": 9500,
+    "stock": 94,
+    "category": "Cámaras",
+    "rating": 3.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_844452-MLU72637258691_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611139-MLU72637278373_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_804253-MLU72637278377_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_850967-MLA31993477867_082019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_849120-MLA31993477869_082019-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Quantum Positivo Q20",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 3000,
+    "stock": 23,
+    "category": "Celulares",
+    "rating": 2.0,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_954663-MLA47575004696_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_807568-MLA47575333085_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_774660-MLA47575158443_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_667199-MLA47575120517_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_799009-MLA47575158441_092021-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Home Theater Logitech Z607",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Con tu Logitech Z607 disfrutarás de la compañía de tus canciones favoritas y vibrarás con las escenas de grandes obras maestras de la pantalla grande. En primer plano, segundo plano o con tecnología envolvente, un sistema integrado de sonido será la clave para llenar de magia tu hogar.\n\nLa configuración de canales 5.1 es la pieza fundamental de este equipo, encargada de reconstruir el audio en un sistema de múltiples altavoces.",
+    "price": 4000,
+    "stock": 82,
+    "category": "Audio",
+    "rating": 3.1,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_793519-MLA41462260049_042020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_623026-MLA42664301605_072020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_655290-MLA41462260050_042020-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Parlante Genius SP-HF800A",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Genius SP-HF800A ofrece un sonido natural, con una gran claridad y precisión, que se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia.",
+    "price": 2000,
+    "stock": 57,
+    "category": "Audio",
+    "rating": 2.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_636613-MLA42000274666_052020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_682298-MLA42000274685_052020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_784002-MLU70064681001_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_625311-MLU70044827862_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_978947-MLU73129293584_122023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Webcam Full Hd 1080p",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "La cámara web Phottix PC-20 FHD ofrece video Full HD 1080P de alta calidad, para mejores encuentros con videoconferencia habilitada para USB, tutorial, seminario web.",
+    "price": 850,
+    "stock": 98,
+    "category": "Cámaras",
+    "rating": 2.4,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_918866-MLA51736308834_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_829422-MLA51736308839_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_795511-MLA51736308842_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_859873-MLA51736308841_092022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_859891-MLA51736308835_092022-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Camara Bushnell Prime",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "24 megapíxeles: optimizado para imágenes más nítidas y ricas durante el día. Construido con funciones en el interior para brindarle imágenes que revelan más en el difícil mundo exterior. Alcance nocturno de 30 metros: capture imágenes nocturnas de alto contraste con una claridad cristalina, sin ningún tipo de desvanecimiento.",
+    "price": 6000,
+    "stock": 35,
+    "category": "Cámaras",
+    "rating": 3.6,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_897406-MLA43653255467_102020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_843685-MLA43653266243_102020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_819297-MLA47661766650_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_967900-MLA47661751857_092021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_706258-MLA43653262351_102020-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pc Gamer Intel, RTX",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      }
+    ],
+    "description": "CPU INTEL CORE I9-14900K RAPTORLAKE S1700 BOX. \n\nMotherboard Msi Mag Z790 Tomahawk Max Wifi Ddr5 Intel. Water Cooler Cpu Arctic Liquid Freezer Ii 360 Am5 Intel 1700.\n\nKit Memoria Ram Ddr5 Ram 64gb (2x32gb)black Blade Rgb 6400mhz. DISCO SSD M.2 de 2tb NVME para Sistema operativo; Disco de 4Tb SSD SATA para Back up. RTX 4060Ti Rog Strix.",
+    "price": 12000,
+    "stock": 95,
+    "category": "Computación",
+    "rating": 4.5,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_942513-MLA70198198942_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_673003-MLA73022484575_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_840766-MLA73022484583_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_714621-MLA72942984222_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_813334-MLA72943013430_112023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Drone DJI Mini 3",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Ligero y compacto: Mini 3 pesa menos de 8.78 oz. Perfecto para llevar contigo en tus aventuras, desde caminatas, viajes por carretera y días de playa.\n\nDuración de la batería extendida: con hasta 38 minutos de duración de la batería, puede tomar Mini 3 en cada parada en el camino o volar vuelos largos sin preocuparse por la batería.\n\nPelícula en video HDR 4K para tomas aéreas cristalinas. Captura detalles en reflejos y sombras, tanto de día como de noche.",
+    "price": 8000,
+    "stock": 77,
+    "category": "Drones",
+    "rating": 3.3,
+    "images": [
+      {
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61Yoga5FJlL._AC_SL1500_.jpg"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51Plf6UGySL._AC_SL1500_.jpg"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61dHfJoVaBL._AC_SL1500_.jpg"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71Bdxsf2H2L._AC_SL1500_.jpg"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Drone Mini Cámara 1080p",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      }
+    ],
+    "description": "Los mini drones cuentan con tecnologías exclusivas e impresionantes marcos estabilizados. Ideales para volar en interiores, recorrer pasillos estrechos y realizar maniobras delicadas con facilidad.",
+    "price": 4000,
+    "stock": 63,
+    "category": "Drones",
+    "rating": 3.0,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_935813-MLM52965377051_122022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_981313-MLM51855175080_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_939873-MLM52071162625_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_614255-MLM52071090989_102022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_667595-MLM51855185022_102022-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Drone Daming Dm107s",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      }
+    ],
+    "description": "Resolución de cámara frontal HD 720 px. Cámara secundaria de 480px.\n\nRECONOCIMIENTO DE GESTOS: Párate frente al drone y haz la señal V con tus dedos, se activará el temporizador y se tomará una fotografía en 3 segundos.\n\nFUNCIONES: Tecla para despegar y aterrizar, apagado de emergencia. Giroscopio de 6 ejes. Control de altitud para vuelos estable. Headless Mode (Modo sin cabeza).",
+    "price": 5000,
+    "stock": 29,
+    "category": "Drones",
+    "rating": 3.0,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_761835-MLA44571665927_012021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_855963-MLA40373328806_012020-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_820361-MLA40373328787_012020-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Drone Cuadricoptero",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "curious"
+      }
+    ],
+    "description": "Está hecho de materiales ABS ignífugos de alta calidad y respetuosos con el medio ambiente, con diseño de carcasa de alta resistencia y buen rendimiento anti-caídas y anti-colisión.",
+    "price": 6000,
+    "stock": 2,
+    "category": "Drones",
+    "rating": 2.5,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_616760-MLA71951322925_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_696234-MLA48067577654_102021-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_915231-MLA48067609315_102021-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Asus TUF Gaming RTX 3060 12GB",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Nvidia es el fabricante líder de placas de video; su calidad asegura una experiencia positiva en el desarrollo del motor gráfico de tu computadora. Además, sus procesadores usan tecnología de punta para que puedas disfrutar de un producto veloz y duradero.",
+    "price": 6000,
+    "stock": 61,
+    "category": "Computación",
+    "rating": 4.4,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_824032-MLA53332866225_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_893892-MLA53332808711_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611303-MLA53332770830_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_759508-MLA53332808716_012023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_893685-MLA53332808714_012023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Mini Drone Dji Mini 3",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "intelligent"
+      }
+    ],
+    "description": "Los drones DJI se caracterizan por la mejor tecnología al servicio de cada tipo de usuario y escenario de disparo. Si buscas un dron para principiantes, un dron profesional o solamente quieres estar actualizado con las últimas innovaciones, es hora de elegir a esta marca.",
+    "price": 3000,
+    "stock": 84,
+    "category": "Drones",
+    "rating": 2.5,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_820653-MLU72628857396_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_661847-MLU70013387091_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_861953-MLU71677401195_092023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_847611-MLU70013337577_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Monitor Samsung Odyssey G3 24´",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "adventurous"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "Este monitor de 24´ te va a resultar cómodo para estudiar, trabajar o ver una película en tus tiempos de ocio. Asimismo, su resolución de 1920 x 1080 te permite disfrutar de momentos únicos gracias a una imagen de alta fidelidad.",
+    "price": 3000,
+    "stock": 63,
+    "category": "Computación",
+    "rating": 3.3,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_667995-MLU72756710926_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_690240-MLU72831731623_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_660843-MLU72756730542_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_761496-MLU72756730548_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_775020-MLU73262541639_122023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Camara Semireflex Sony H300",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "friendly"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "friendly"
+      }
+    ],
+    "description": "El sensor de imagen CCD capta con mayor claridad las luces y sombras en tus fotografías, las procesa en un chip externo que te permite guardar mayor cantidad de imágenes, y minimiza el ruido en las capturas. \n\nEl modo autofoco captura objetos y personas con naturalidad. Disfrutá el momento y guardá los mejores recuerdos en donde estés.",
+    "price": 6000,
+    "stock": 10,
+    "category": "Cámaras",
+    "rating": 3.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_722949-MLU72572778414_112023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_777336-MLA40044532833_122019-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_900503-MLU69825292989_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_923492-MLA49434496569_032022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_943458-MLU69809654388_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Xiaomi Redmi Note 11",
+    "date": { "from": "2023-12-17", "to": "2023-12-30" },
+    "characteristics": [
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "Mirá tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.43´. Disfrutá de colores brillantes y detalles precisos en todos tus contenidos. Su memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+    "price": 3000,
+    "stock": 17,
+    "category": "Celulares",
+    "rating": 3.1,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_641923-MLU69889783892_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_690803-MLU69889783894_062023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_955560-MLU69889783896_062023-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Etheos DRN1080",
+    "date": { "from": "2023-12-14", "to": "2023-12-26" },
+    "characteristics": [
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "playful"
+      },
+      {
+        "characteristic": "curious"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "loyal"
+      }
+    ],
+    "description": "El Drone Etheos DRN1080 es el compañero perfecto para capturar momentos increíbles desde el cielo. Con su cámara dual Full HD, podrás obtener imágenes y videos de alta calidad, tanto desde la parte frontal como desde la parte inferior del drone.",
+    "price": 5000,
+    "stock": 18,
+    "category": "Drones",
+    "rating": 1.8,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_804621-MLA51320275698_082022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_841222-MLA51320255972_082022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_775105-MLA51320255973_082022-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_769080-MLA51320287567_082022-O.webp"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Silla Gamer Dxracer",
+    "date": { "from": "2023-12-14", "to": "2023-12-26" },
+    "characteristics": [
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "intelligent"
+      },
+      {
+        "characteristic": "loyal"
+      },
+      {
+        "characteristic": "adventurous"
+      }
+    ],
+    "description": "Con esta silla DXRacer, vas a tener la comodidad y el bienestar que necesitás a lo largo de tu dia. Además, podés ubicarla en cualquier parte de tu casa u oficina, ya que los variados diseños que ofrecemos se adaptan a múltiples entornos. ¡Dale a tus espacios un toque más moderno!.",
+    "price": 4200,
+    "stock": 30,
+    "category": "Computación",
+    "rating": 3.7,
+    "images": [
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_630392-MLU70778725722_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689659-MLU70810079529_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_705475-MLU70778725720_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_651588-MLU70778480940_082023-O.webp"
+      },
+      {
+        "image": "https://http2.mlstatic.com/D_NQ_NP_818002-MLU70778480946_082023-O.webp"
+      }
+    ]
+  }
+]
